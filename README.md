@@ -4,6 +4,8 @@ Designed for Diskless
 ## Fitur
 - Unload registry
 - Auto Import Registry
+- Support Static Mode
+- Support Download and auto Install .NET Desktop Runtime 7.0
 
 ## Cara Pakai
 0. Letakkan di dalam folder DarkGamer Launcher berdampingan dengan Launcher.exe
